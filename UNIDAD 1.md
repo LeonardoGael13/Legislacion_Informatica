@@ -1,11 +1,11 @@
 
-## ***Actividad 1.1*** :
+## ***Actividad 1.1*** 
 
 Espero de la materia pueda aprender sobre las leyes y normas relacionadas con la IA también la importancia de la privacidad y la responsabilidad en su uso al igual que un conocimiento que me ayuden mas a futuro
 
 ----
 
-## ***Actividad 1.2***
+## ***Actividad 1.2*** 
 
 Investigar que organismo sustituyo al INAI y los Organismos similares en Estados Unidos y la Unión Europea 
 
@@ -59,7 +59,8 @@ Coordina a las autoridades de protección de datos de los países de la Unión E
 
 ## ***Actividad 1.4***
 
-![[Legislacion_Informatica/Actividad 1.4]]
+![[Legislacion_Informatica/Drawing 2026-09-07 10.37.18.excalidraw]]
+
 
 
 ----
