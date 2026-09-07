@@ -59,8 +59,8 @@ Coordina a las autoridades de protección de datos de los países de la Unión E
 
 ## ***Actividad 1.4***
 
-![[Legislacion_Informatica/Drawing 2026-09-07 10.37.18.excalidraw]]
 
+![[Pasted image 20260907104528.png]]
 
 
 ----
