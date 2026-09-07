@@ -1,5 +1,5 @@
 
-## ***Actividad 1.1***
+## ***Actividad 1.1*** :
 
 Espero de la materia pueda aprender sobre las leyes y normas relacionadas con la IA también la importancia de la privacidad y la responsabilidad en su uso al igual que un conocimiento que me ayuden mas a futuro
 
